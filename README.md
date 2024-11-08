@@ -18,3 +18,5 @@ A simple To-Do application built with **React**, **Tailwind CSS**, and **TypeScr
 - Mark tasks as completed
 - Delete tasks
 - Clean and responsive UI
+
+![demo_!](https://raw.githubusercontent.com/niba291/To-do/refs/heads/master/demo_1.png)
