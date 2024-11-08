@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/components/button.tsx","./src/components/input.tsx","./src/components/item.tsx","./src/components/list.tsx","./src/interfaces/iteminterface.tsx","./src/svg/trash.tsx","./src/views/app.tsx"],"version":"5.6.3"}
